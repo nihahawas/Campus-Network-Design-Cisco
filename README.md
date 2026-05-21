@@ -1,5 +1,8 @@
 # 🌐 Campus Network Design and Implementation Using Cisco Packet Tracer
 
+<img width="1917" height="1031" alt="topology" src="https://github.com/user-attachments/assets/1c3bfc94-2a6c-489d-a9da-b88422b09077" />
+
+
 ## 📖 Overview
 This project presents the design and implementation of a secure and scalable campus network infrastructure using Cisco Packet Tracer. The network was developed for different departments including Programming Lab, Networking Lab, Faculty Office, and Accounts Department.
 
